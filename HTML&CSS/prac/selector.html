@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>selector practice</title>
+    <style>
+      p {
+        color: red;
+      }
+      h2 {
+        color: blue;
+      }
+      #snow {
+        background-color: yellow;
+      }
+      .contents {
+        font-size: 24px;
+      }
+      /* 전체 선택자
+      * {
+        color: coral;
+      }
+      */
+      /* attribute를 이용한 선택자 */
+      #newLink[target='_blank'] {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>수노입니다.</h1>
+    <p>이것은 첫번째 단락입니다.</p>
+    <h2 id="snow">작은 수노입니다.</h2>
+    <p class="contents">이것은 두번째 단락입니다.</p>
+    <h2>새로운 작은 수노입니다.</h2>
+    <p class="contents">이것은 세번째 단락입니다.</p>
+    <br />
+    <a href="https:://www.google.com/" target="_self">구글 현재창</a>
+    <a href="https:://www.google.com/" target="_blank" id="newLink"
+      >구글 새 창</a
+    >
+    <a href="https:://www.google.com/" target="_self">구글 현재창</a>
+    <a href="https:://www.google.com/" target="_self">구글 현재창</a>
+  </body>
+</html>
