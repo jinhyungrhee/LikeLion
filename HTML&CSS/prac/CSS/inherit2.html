@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Inherit2</title>
+    <style>
+      p,
+      div {
+        background-color: black;
+      }
+      p {
+        color: red !important;
+      }
+      #id {
+        color: yellow;
+      }
+      p.class {
+        color: green;
+      }
+      div.class {
+        color: green;
+      }
+      .class {
+        color: blue;
+      }
+      p {
+        color: purple;
+      }
+      div {
+        color: purple;
+      }
+      * {
+        color: white;
+      }
+
+      #stronger {
+        color: blue;
+      }
+      .weaker {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <p id="id" class="class">p tag with id</p>
+    <div class="class">div tag with class</div>
+    <p id="stronger" class="weaker">will be RED</p>
+  </body>
+</html>
