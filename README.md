@@ -25,8 +25,23 @@
 - [210504 HTML & CSS - 값과 단위](https://github.com/jinhyungrhee/LikeLion/blob/master/HTML%26CSS/CSS/value.md)
 - [210504 HTML & CSS - 텍스트와 관련된 프로퍼티](https://github.com/jinhyungrhee/LikeLion/blob/master/HTML%26CSS/CSS/property.md)
 - [210504 HTML & CSS - 박스 모델](https://github.com/jinhyungrhee/LikeLion/blob/master/HTML%26CSS/CSS/boxmodel.md)
+- [210512 HTML & CSS - 위치와 관련된 프로퍼티](https://github.com/jinhyungrhee/LikeLion/blob/master/HTML%26CSS/CSS/property2.md)
+- [210512 HTML & CSS - 상속과 우선순위](https://github.com/jinhyungrhee/LikeLion/blob/master/HTML%26CSS/CSS/inherit.md)
+- [210512 HTML & CSS - Bootstrap](https://github.com/jinhyungrhee/LikeLion/blob/master/HTML%26CSS/CSS/bootstrap.md)
 </details>
 
+<details>
+<summary> Python 기초 </summary>
+
+- [210512 Python 기초 - 변수와 상수](https://github.com/jinhyungrhee/LikeLion/blob/master/Python/variable.md)
+- [210512 Python 기초 - 입력과 출력](https://github.com/jinhyungrhee/LikeLion/blob/master/Python/input.md)
+
+- [210512 Python 기초 - 자료형 : 숫자형](https://github.com/jinhyungrhee/LikeLion/blob/master/Python/datatype.md)
+- [210512 Python 기초 - 자료형 : 문자형](https://github.com/jinhyungrhee/LikeLion/blob/master/Python/char.md)
+
+</details>
+
+<br/>
 <br/>
 
 ## 실습
@@ -57,4 +72,17 @@
 - [210504 HTML & CSS - 텍스트와 관련된 프로퍼티](https://github.com/jinhyungrhee/LikeLion/blob/master/HTML%26CSS/prac/CSS/font.html)
 - [210504 HTML & CSS - 박스 모델](https://github.com/jinhyungrhee/LikeLion/blob/master/HTML%26CSS/prac/CSS/boxmodel.html)
 
+- [210512 HTML & CSS - 위치와 관련된 프로퍼티1](https://github.com/jinhyungrhee/LikeLion/blob/master/HTML%26CSS/prac/CSS/property1.html)
+- [210512 HTML & CSS - 위치와 관련된 프로퍼티2](https://github.com/jinhyungrhee/LikeLion/blob/master/HTML%26CSS/prac/CSS/flexbox1.html)
+- [210512 HTML & CSS - 상속과 우선순위](https://github.com/jinhyungrhee/LikeLion/blob/master/HTML%26CSS/prac/CSS/inherit2.html)
+- [210512 HMTL & CSS - Bootstrap](https://github.com/jinhyungrhee/LikeLion/blob/master/HTML%26CSS/prac/CSS/bootstrap2.html)
+
+</details>
+
+<details>
+<summary> Python 기초 </summary>
+
+- [210512 Python 기초 - 입력과 출력](https://github.com/jinhyungrhee/LikeLion/blob/master/Python/prac/first.py)
+
+- [210512 Python 기초 - 자료형 : 숫자형](https://github.com/jinhyungrhee/LikeLion/blob/master/Python/prac/num.py)
 </details>
