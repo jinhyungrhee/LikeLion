@@ -38,6 +38,10 @@
 
 - [210512 Python 기초 - 자료형 : 숫자형](https://github.com/jinhyungrhee/LikeLion/blob/master/Python/datatype.md)
 - [210512 Python 기초 - 자료형 : 문자형](https://github.com/jinhyungrhee/LikeLion/blob/master/Python/char.md)
+- [210517 Python 기초 - 자료형 : 리스트, 튜플, 딕셔너리](https://github.com/jinhyungrhee/LikeLion/blob/master/Python/list.md)
+- [210517 Python 기초 - 내장함수](https://github.com/jinhyungrhee/LikeLion/blob/master/Python/builtin.md)
+- [210517 Python 기초 - 제어문 : 분기문, 반복문](https://github.com/jinhyungrhee/LikeLion/blob/master/Python/control.md)
+- [210517 Python 기초 - 함수](https://github.com/jinhyungrhee/LikeLion/blob/master/Python/func.md)
 
 </details>
 
@@ -85,4 +89,9 @@
 - [210512 Python 기초 - 입력과 출력](https://github.com/jinhyungrhee/LikeLion/blob/master/Python/prac/first.py)
 
 - [210512 Python 기초 - 자료형 : 숫자형](https://github.com/jinhyungrhee/LikeLion/blob/master/Python/prac/num.py)
+
+- [210517 Python 기초 - 자료형 : 문자형](https://github.com/jinhyungrhee/LikeLion/blob/master/Python/prac/builtinString.py)
+- [210517 Python 기초 - 자료형 : 리스트](https://github.com/jinhyungrhee/LikeLion/blob/master/Python/prac/builtinList.py)
+- [210517 Python 기초 - 자료형 : 딕셔너리](https://github.com/jinhyungrhee/LikeLion/blob/master/Python/prac/builtinDict.py)
+- [210517 Python 기초 - 제어문 : 분기문](https://github.com/jinhyungrhee/LikeLion/blob/master/Python/prac/if.py)
 </details>
