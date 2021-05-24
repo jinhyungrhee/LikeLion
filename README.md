@@ -45,6 +45,20 @@
 
 </details>
 
+<details>
+<summary> Django </summary>
+
+- [210525 Django - Settings : OT](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/Setting/django.md)
+- [210525 Django - Settings : 터미널1](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/Setting/terminal.md)
+
+- [210525 Django - Settings : 터미널2](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/Setting/command.md)
+- [210525 Django - MTV패턴](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/mtv.md)
+- [210525 Django - Django 실습1](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/prac1.md)
+- [210525 Django - Django 실습2](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/prac2.md)
+- [210525 Django - Git 사용법](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/git.md)
+
+</details>
+
 <br/>
 <br/>
 
