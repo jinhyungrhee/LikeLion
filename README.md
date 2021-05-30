@@ -57,6 +57,13 @@
 - [210525 Django - Django 실습2](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/prac2.md)
 - [210525 Django - Git 사용법](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/git.md)
 
+- [210531 Django - Django와 데이터베이스](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/database.md)
+- [210531 Django - Model 실습](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/model.md)
+- [210531 Django - CRUD : Read](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/read.md)
+- [210531 Django - CRUD : Create](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/create.md)
+- [210531 Django - CRUD : Update](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/update.md)
+- [210531 Django - CRUD : Delete](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/delete.md)
+
 </details>
 
 <br/>
