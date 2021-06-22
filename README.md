@@ -64,6 +64,12 @@
 - [210531 Django - CRUD : Update](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/update.md)
 - [210531 Django - CRUD : Delete](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/delete.md)
 
+- [210623 Django - Template 상속](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/template.md)
+- [210623 Django - Static](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/static.md)
+- [210623 Django - Media](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/media.md)
+- [210623 Django - Form](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/form.md)
+- [210623 Django - User 확장과 인증](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/user1.md)
+
 </details>
 
 <br/>
