@@ -68,7 +68,9 @@
 - [210623 Django - Static](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/static.md)
 - [210623 Django - Media](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/media.md)
 - [210623 Django - Form](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/form.md)
-- [210623 Django - User 확장과 인증](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/user1.md)
+- [210623 Django - User 확장과 인증(이론)](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/user1.md)
+- [210623 Django - User 확장과 인증(login/logout)](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/user2.md)
+- [210623 Django - User 확장과 인증(signup)](https://github.com/jinhyungrhee/LikeLion/blob/master/Django/user3.md)
 
 </details>
 
